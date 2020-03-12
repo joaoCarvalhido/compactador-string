@@ -119,7 +119,7 @@ sendo assim o uso de um compactador se torna uma ferramenta indispensável.
 
 -> Atribuição e Registração.
 
-####Vantagens e Desvantagens
+**Vantagens e Desvantagens
 
 
 Vantagens:
