@@ -1,6 +1,5 @@
 # Compactação de String
  
-#### João Lucas Morais Carvalhido
 
 ## Problema
 
